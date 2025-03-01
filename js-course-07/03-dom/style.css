@@ -1,0 +1,19 @@
+#text-output {
+  text-align: center;
+}
+
+#display {
+  border: 1px solid;
+  text-align: center;
+  font-size: 3rem;
+  padding: 1rem 2rem;
+}
+
+#img-output {
+  margin-top: 4rem;
+  text-align: center;
+}
+
+.coin {
+  height: 8rem;
+}
