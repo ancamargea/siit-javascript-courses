@@ -1,0 +1,7 @@
+#to-do-list li {
+  color: red;
+}
+
+#to-do-list li.done {
+  color: green;
+}
